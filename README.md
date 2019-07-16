@@ -178,6 +178,7 @@ Motion Prediction
 Motion Capture
 [Neural Scene Decomposition for Multi-Person Motion Capture](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rhodin_Neural_Scene_Decomposition_for_Multi-Person_Motion_Capture_CVPR_2019_paper.pdf). Helge Rhodin, Victor Constantin, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua. CVPR 2019.
 
+[Self-supervised Learning of Motion Capture](https://arxiv.org/pdf/1712.01337.pdf). Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki. NIPS 2017.
 
 Human Reconstruction
 [HoloPose: Holistic 3D Human Reconstruction In-The-Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guler_HoloPose_Holistic_3D_Human_Reconstruction_In-The-Wild_CVPR_2019_paper.pdf). Riza Alp Guler, Iasonas Kokkinos. CVPR 2019.
@@ -192,6 +193,8 @@ Human Reconstruction
 
 [SiCloPe: Silhouette-Based Clothed People](http://openaccess.thecvf.com/content_CVPR_2019/papers/Natsume_SiCloPe_Silhouette-Based_Clothed_People_CVPR_2019_paper.pdf). Ryota Natsume, Shunsuke Saito, Zeng Huang, Weikai Chen, Chongyang Ma, Hao Li, Shigeo Morishima. CVPR 2019.
 
+[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf). Mohamed Omran, Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler, Bernt Schiele. 3DV, 2018.
+
 [End-to-End Recovery of Human Shape and Pose](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.pdf). Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik. CVPR 2018.
 
 [Learning to Estimate 3D Human Pose and Shape From a Single Color Image](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Learning_to_Estimate_CVPR_2018_paper.pdf). Georgios Pavlakos, Luyang Zhu, Xiaowei Zhou, Kostas Daniilidis. CVPR 2018.
@@ -201,6 +204,12 @@ Human Reconstruction
 [Human Shape From Silhouettes Using Generative HKS Descriptors and Cross-Modal Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dibra_Human_Shape_From_CVPR_2017_paper.pdf). Endri Dibra, Himanshu Jain, Cengiz Oztireli, Remo Ziegler, Markus Gross. CVPR 2017.
 
 [Unite the People: Closing the Loop Between 3D and 2D Human Representations](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lassner_Unite_the_People_CVPR_2017_paper.pdf). Christoph Lassner, Javier Romero, Martin Kiefel, Federica Bogo, Michael J. Black, Peter V. Gehler. CVPR 2017.
+
+[Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). Federica Bogo∗, Angjoo Kanazawa*, Christoph Lassner, Peter Gehler,Javier Romero, Michael J. Black. ECCV 2016.
+
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015_fixed.pdf). Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, Michael J. Black. 2015.
+
+[The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose](http://files.is.tue.mpg.de/black/papers/StitchCVPR2015.pdf). Silvia Zuffi, Michael J. Black. CVPR 2015.
 
 Correspondence
 [4D Human Body Correspondences From Panoramic Depth Maps](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_4D_Human_Body_CVPR_2018_paper.pdf). Zhong Li, Minye Wu, Wangyiteng Zhou, Jingyi Yu. CVPR 2018.
