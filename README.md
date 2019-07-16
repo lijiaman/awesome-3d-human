@@ -5,34 +5,16 @@
 
 ## Contents
 
-- [Tutorials](#tutorials)
-
 - [Papers](#papers)
 	- [Face Reconstruction](#papers-slam)
 	- [Body Reconstruction](#papers-sfm)
 
 		- [Incremental SfM](#papers-sfm-incremental)
-		- [Non Rigid SfM](#papers-non-rigid-sfm)
 <br/><br/>
-		- [Viewing graph optimization](#papers-sfm-graph)
 	- [Hand Reconstruction](#papers-sfm)
 	- [Motion Synthesis](#papers-sfm)
 
-- [OpenSource software resources](#opensource)
-	- [SfM](#opensource-sfm)
-
 - [Contributing](#contributing)
-
-<a name="tutorials"></a>
-# Tutorials
-
-## Tutorial & survey
-
-
-[Visual Odometry: Part I - The First 30 Years and Fundamentals](http://rpg.ifi.uzh.ch/docs/VO_Part_I_Scaramuzza.pdf), D. Scaramuzza and F. Fraundorfer, IEEE Robotics and Automation Magazine, Volume 18, issue 4, 2011
-
-## RGB-D mapping
-[3D indoor scene modeling from RGB-D data: a survey](http://cg.cs.tsinghua.edu.cn/papers/CVMJ-2015-scene-moddeling.pdf) K. Chen, YK. Lai and SM. Hu. Computational Visual Media 2015.
 
 
 <a name="papers"></a>
@@ -236,15 +218,11 @@ Correspondence
 
 
 <a name="opensource-slam"></a>
-## OpenSource SLAM (Simultaneous Localization And Mapping)
+## Other Resources 
 
 | Project |  Language | License |
 | ---  | --- | --- |
 |[COSLAM](http://drone.sjtu.edu.cn/dpzou/project/coslam.php) | C++ |  GNU General Public License|
-|[DSO-Direct Sparse Odometry](https://github.com/JakobEngel/dso) | C++ |  GPLv3|
-|[DTSLAM-Deferred Triangulation SLAM](https://github.com/plumonito/dtslam) | C++ |  modified BSD|
-|[LSD-SLAM](https://github.com/tum-vision/lsd_slam/) | C++/ROS |  GNU General Public License|
-|[MAPLAB-ROVIOLI](https://github.com/ethz-asl/maplab) | C++/ROS |  Apachev2.0|
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/openMVG/awesome_3DReconstruction_list/blob/master/contributing.md) for details.
