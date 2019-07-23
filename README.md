@@ -12,15 +12,15 @@
 		- [Audio-Driven Face Animation](#papers-face-audio)
 		- [Other 3D Face Tasks](#papers-face-others)
 	- [Body Modeling](#papers-body)
-		- [Geometry](#papers-body-geometry-only)
-		- [Texture](#papers-body-texture)
-		- [Pose Estimation](#papers-body-pose)
+		- [Body Reconstruction (Geometry Only)](#papers-body-geometry-only)
+		- [Body Reconstruction (With Texture)](#papers-body-texture)
+		- [Human Capture](#papers-body-capture)
+		- [3D Pose Estimation](#papers-body-pose)
 	- [Hand Modeling](#papers-hand)
-		- [Mesh](#papers-hand-mesh)
-		- [Pose Estimation](#papers-hand-pose)
+		- [Hand Shape Estimation](#papers-hand-mesh)
+		- [3D Hand Pose Estimation](#papers-hand-pose)
 	- [Motion Modeling](#papers-motion)
-		- [Motion Prediction](#papers-motion-pose)
-		- [Pose Estimation](#papers-motion-pose)
+		- [Motion Prediction/Synthesis](#papers-motion-pred)
 
 - [Contributing](#contributing)
 
@@ -131,6 +131,7 @@
 
 <a name="papers-body-texture"></a>
 ### Body Reconstruction (With Texture)
+[PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf). Shunsuke Saito*, Zeng Huang*, Ryota Natsume*, Shigeo Morishima, Angjoo Kanazawa, Hao Li. ICCV 2019.
 
 [Learning to Reconstruct People in Clothing From a Single RGB Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Alldieck_Learning_to_Reconstruct_People_in_Clothing_From_a_Single_RGB_CVPR_2019_paper.pdf). Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll. CVPR 2019.
 
@@ -221,8 +222,11 @@
 
 [3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation From Single Depth Images](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_3D_Convolutional_Neural_CVPR_2017_paper.pdf). Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann. CVPR 2017.
 
-<a name="motion"></a>
-## Motion Prediction/Synthesis
+<a name="papers-motion"></a>
+## Motion Modeling
+
+<a name="papers-motion-pred"></a>
+### Motion Prediction/Synthesis
 [Towards Natural and Accurate Future Motion Prediction of Humans and Animals](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf). Zhenguang Liu, Shuang Wu, Shuyuan Jin, Qi Liu, Shijian Lu, Roger Zimmermann, Li Cheng. CVPR 2019.
 
 [A Neural Temporal Model for Human Motion Prediction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf). Anand Gopalakrishnan, Ankur Mali, Dan Kifer, Lee Giles, Alexander G. Ororbia. CVPR 2019.
