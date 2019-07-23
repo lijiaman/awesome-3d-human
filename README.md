@@ -171,7 +171,7 @@ and Emotion](https://users.aalto.fi/~laines9/publications/karras2017siggraph_pap
 Javier Romero, Matthew Loper, Michael J. Black. CVPR 2016.
 
 <a name="papers-body-pose"></a>
-### Human Pose Estimation
+### 3D Pose Estimation
 [3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf). Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli. CVPR 2019.
 
 [RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wandt_RepNet_Weakly_Supervised_Training_of_an_Adversarial_Reprojection_Network_for_CVPR_2019_paper.pdf). Bastian Wandt, Bodo Rosenhahn. CVPR 2019.
