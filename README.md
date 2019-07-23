@@ -7,13 +7,20 @@
 
 - [Papers](#papers)
 	- [Face Modeling](#papers-face)
-		- [](#papers-s-i)
+		- [Geometry](#papers-face-geometry-only)
+		- [Texture](#papers-face-texture)
+		- [Audio-Driven](#papers-face-audio)
+		- [Others](#papers-face-others)
 	- [Body Modeling](#papers-body)
-
-		- [](#papers-s-i)
-<br/><br/>
+		- [Geometry](#papers-body-geometry-only)
+		- [Texture](#papers-body-texture)
+		- [Pose Estimation](#papers-body-pose)
 	- [Hand Modeling](#papers-hand)
+		- [Mesh](#papers-hand-mesh)
+		- [Pose Estimation](#papers-hand-pose)
 	- [Motion Modeling](#papers-motion)
+		- [Motion Prediction](#papers-motion-pose)
+		- [Pose Estimation](#papers-motion-pose)
 
 - [Contributing](#contributing)
 
@@ -24,7 +31,8 @@
 <a name="face"></a>
 ## Face
 
-Geometry Only
+<a name="papers-face-geometry-only"></a>
+### Geometry Only
 [High-Quality Face Capture Using Anatomical Muscles](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_High-Quality_Face_Capture_Using_Anatomical_Muscles_CVPR_2019_paper.pdf). Michael Bao, Matthew Cong, Stephane Grabli, Ronald Fedkiw. CVPR 2019.
 
 [Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sanyal_Learning_to_Regress_3D_Face_Shape_and_Expression_From_an_CVPR_2019_paper.pdf). Soubhik Sanyal, Timo Bolkart, Haiwen Feng, Michael J. Black. CVPR 2019.
@@ -53,7 +61,8 @@ Geometry Only
 
 [Parametric T-Spline Face Morphable Model for Detailed Fitting in Shape Subspace](http://openaccess.thecvf.com/content_cvpr_2017/papers/Peng_Parametric_T-Spline_Face_CVPR_2017_paper.pdf). Weilong Peng, Zhiyong Feng, Chao Xu, Yong Su. CVPR 2017.
 
-Total Reconstruction with texture
+<a name="papers-face-texture"></a>
+### Total Reconstruction with texture
 [FML: Face Model Learning From Videos](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tewari_FML_Face_Model_Learning_From_Videos_CVPR_2019_paper.pdf). Ayush Tewari, Florian Bernard, Pablo Garrido, Gaurav Bharaj, Mohamed Elgharib, Hans-Peter Seidel, Patrick Perez, Michael Zollhofer, Christian Theobalt. CVPR 2019.
 
 [Dense 3D Face Decoding Over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Dense_3D_Face_Decoding_Over_2500FPS_Joint_Texture__Shape_CVPR_2019_paper.pdf). Yuxiang Zhou, Jiankang Deng, Irene Kotsia, Stefanos Zafeiriou. CVPR 2019.
@@ -74,13 +83,14 @@ Total Reconstruction with texture
 
 [MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.pdf). Ayush Tewari, Michael Zollhofer, Hyeongwoo Kim, Pablo Garrido, Florian Bernard, Patrick Perez, Christian Theobalt. ICCV 2017.
 
-
 [SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sengupta_SfSNet_Learning_Shape_CVPR_2018_paper.pdf). Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs. CVPR 2018.
 
-Audio-Driven Face Animation
+<a name="papers-face-audio"></a>
+### Audio-Driven Face Animation
 [Capture, Learning, and Synthesis of 3D Speaking Styles](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cudeiro_Capture_Learning_and_Synthesis_of_3D_Speaking_Styles_CVPR_2019_paper.pdf). Daniel Cudeiro, Timo Bolkart, Cassidy Laidlaw, Anurag Ranjan, Michael J. Black. CVPR 2019.
 
-Other 3D Face Tasks
+<a name="papers-face-others"></a>
+### Other 3D Face Tasks
 [Dense Semantic and Topological Correspondence of 3D Faces without Landmarks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenfeng_Fan_Dense_Semantic_and_ECCV_2018_paper.pdf). Zhenfeng Fan, Xiyuan Hu, Chen Chen, Silong Peng. ECCV 2018.
 
 [Learning From Millions of 3D Scans for Large-Scale 3D Face Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gilani_Learning_From_Millions_CVPR_2018_paper.pdf). Syed Zulqarnain Gilani, Ajmal Mian. CVPR 2018.
