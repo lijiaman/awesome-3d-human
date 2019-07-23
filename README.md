@@ -146,7 +146,11 @@
 
 [Monocular Total Capture: Posing Face, Body, and Hands in the Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiang_Monocular_Total_Capture_Posing_Face_Body_and_Hands_in_the_CVPR_2019_paper.pdf). Donglai Xiang, Hanbyul Joo, Yaser Sheikh. CVPR 2019.
  
+[HybridFusion: Real-Time Performance Capture Using a Single Depth Sensor and Sparse IMUs](http://www.hao-li.com/publications/papers/eccv2018HYBRIDFUSION.pdf). Zerong Zheng, Tao Yu, Hao Li, Kaiwen Guo, Qionghai Dai, Lu Fang, Yebin Liu. ECCV 2018.
+
 [DoubleFusion: Real-Time Capture of Human Performances With Inner Body Shapes From a Single Depth Sensor](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_DoubleFusion_Real-Time_Capture_CVPR_2018_paper.pdf). Tao Yu, Zerong Zheng, Kaiwen Guo, Jianhui Zhao, Qionghai Dai, Hao Li, Gerard Pons-Moll, Yebin Liu. CVPR 2018.
+
+[Deep Volumetric Video From Very Sparse Multi-View Performance Capture](http://www.hao-li.com/publications/papers/eccv2018DVVFVSMVPC.pdf). Zeng Huang, Tianye Li, Weikai Chen, Yajie Zhao, Jun Xing, Chloe LeGendre, Linjie Luo, Chongyang Ma, Hao Li. ECCV 2018. 
 
 [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf). Hanbyul Joo, Tomas Simon, Yaser Sheikh. CVPR 2018.
 
@@ -243,23 +247,6 @@ Motion Capture
 [Neural Scene Decomposition for Multi-Person Motion Capture](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rhodin_Neural_Scene_Decomposition_for_Multi-Person_Motion_Capture_CVPR_2019_paper.pdf). Helge Rhodin, Victor Constantin, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua. CVPR 2019.
 
 [Self-supervised Learning of Motion Capture](https://arxiv.org/pdf/1712.01337.pdf). Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki. NIPS 2017.
-
-
-
-<a name="opensource-solvers"></a>
-## OpenSource Multiple View Geometry Library Solvers
-
-| Project |  Language | License |
-| ---  | --- | --- |
-|[OpenGV](https://github.com/laurentkneip/opengv) | C++ | BSD - permissive |
-
-
-<a name="opensource-slam"></a>
-## Other Resources 
-
-| Project |  Language | License |
-| ---  | --- | --- |
-|[COSLAM](http://drone.sjtu.edu.cn/dpzou/project/coslam.php) | C++ |  GNU General Public License|
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/openMVG/awesome_3DReconstruction_list/blob/master/contributing.md) for details.
