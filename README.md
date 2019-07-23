@@ -233,7 +233,7 @@
 
 [Learning 3D Human Dynamics From Video](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kanazawa_Learning_3D_Human_Dynamics_From_Video_CVPR_2019_paper.pdf). Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik. CVPR 2019.
 
-[On the Continuity of Rotation Representations in Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.pdf). Yi Zhou, Connelly Barnes, Jingwan Lu, Jimei Yang, Hao Li. CVPR 2019.
+[On the Continuity of Rotation Representations in Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.pdf). Yi Zhou*, Connelly Barnes*, Jingwan Lu, Jimei Yang, Hao Li. CVPR 2019.
 
 [Convolutional Sequence to Sequence Model for Human Dynamics](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Convolutional_Sequence_to_CVPR_2018_paper.pdf). Chen Li, Zhen Zhang, Wee Sun Lee, Gim Hee Lee. CVPR 2018.
 
