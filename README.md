@@ -245,12 +245,5 @@
 
 [Deep Representation Learning for Human Motion Prediction and Classification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Butepage_Deep_Representation_Learning_CVPR_2017_paper.pdf). Judith Butepage, Michael J. Black, Danica Kragic, Hedvig Kjellstrom. CVPR 2017.
 
-
-
-Motion Capture
-[Neural Scene Decomposition for Multi-Person Motion Capture](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rhodin_Neural_Scene_Decomposition_for_Multi-Person_Motion_Capture_CVPR_2019_paper.pdf). Helge Rhodin, Victor Constantin, Isinsu Katircioglu, Mathieu Salzmann, Pascal Fua. CVPR 2019.
-
-[Self-supervised Learning of Motion Capture](https://arxiv.org/pdf/1712.01337.pdf). Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki. NIPS 2017.
-
 # Contributing
 Please see [CONTRIBUTING](https://github.com/openMVG/awesome_3DReconstruction_list/blob/master/contributing.md) for details.
