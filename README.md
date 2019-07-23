@@ -1,7 +1,7 @@
 
 # Awesome 3D Human Resources List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of papers & resources linked to 3D Human research including face, body reconstruction, motion synthesis, etc.
+> A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
 
 ## Contents
 
@@ -73,9 +73,9 @@
 
 [GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf). Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou. CVPR 2019.
 
-[PAGAN: REAL-TIME AVATARS USING DYNAMIC TEXTURES](http://www.hao-li.com/publications/papers/siggraphAsia2018PAGAN.pdf). Koki Nagano, Jaewoo Seo, Jun Xing, Lingyu Wei, Zimo Li, Shunsuke Saito, Aviral Agarwal, Jens Fursund, Hao Li. SIGGRAPH Asia 2018.
+[PAGAN: Real-time Avatars Using Dynamic Textures](http://www.hao-li.com/publications/papers/siggraphAsia2018PAGAN.pdf). Koki Nagano, Jaewoo Seo, Jun Xing, Lingyu Wei, Zimo Li, Shunsuke Saito, Aviral Agarwal, Jens Fursund, Hao Li. SIGGRAPH Asia 2018.
 
-[HIGH-FIDELITY FACIAL REFLECTANCE AND GEOMETRY INFERENCE FROM AN UNCONSTRAINED IMAGE](http://www.hao-li.com/publications/papers/siggraph2018HFFRGIFUI.pdf). Shugo Yamaguchi, Shunsuke Saito, Koki Nagano, Yajie Zhao, Weikai Chen, Kyle Olszewski, Shigeo Morishima, Hao Li. SIGGRAPH 2018. 
+[High-fidelity Facial Reflectance And Geometry Inference From An Unconstrained Image](http://www.hao-li.com/publications/papers/siggraph2018HFFRGIFUI.pdf). Shugo Yamaguchi, Shunsuke Saito, Koki Nagano, Yajie Zhao, Weikai Chen, Kyle Olszewski, Shigeo Morishima, Hao Li. SIGGRAPH 2018. 
 
 [Self-Supervised Multi-Level Face Model Learning for Monocular Reconstruction at Over 250 Hz](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tewari_Self-Supervised_Multi-Level_Face_CVPR_2018_paper.pdf). Ayush Tewari, Michael Zollhöfer, Pablo Garrido, Florian Bernard, Hyeongwoo Kim, Patrick Pérez, Christian Theobalt. CVPR 2018.
 
@@ -95,6 +95,9 @@
 ### Audio-Driven Face Animation
 [Capture, Learning, and Synthesis of 3D Speaking Styles](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cudeiro_Capture_Learning_and_Synthesis_of_3D_Speaking_Styles_CVPR_2019_paper.pdf). Daniel Cudeiro, Timo Bolkart, Cassidy Laidlaw, Anurag Ranjan, Michael J. Black. CVPR 2019.
 
+[Audio-Driven Facial Animation by Joint End-to-End Learning of Pose
+and Emotion](https://users.aalto.fi/~laines9/publications/karras2017siggraph_paper.pdf). Tero Karras, Timo Aila, Samuli Laine, Antti Herva, Jaakko Lehtinen. SIGGRAPH 2017.
+
 <a name="papers-face-others"></a>
 ### Other 3D Face Tasks
 [Dense Semantic and Topological Correspondence of 3D Faces without Landmarks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenfeng_Fan_Dense_Semantic_and_ECCV_2018_paper.pdf). Zhenfeng Fan, Xiyuan Hu, Chen Chen, Silong Peng. ECCV 2018.
@@ -103,6 +106,7 @@
 
 <a name="papers-body"></a>
 ## Body
+
 <a name="papers-body-geometry-only"></a>
 ### Body Reconstruction (Geometry Only)
 [HoloPose: Holistic 3D Human Reconstruction In-The-Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guler_HoloPose_Holistic_3D_Human_Reconstruction_In-The-Wild_CVPR_2019_paper.pdf). Riza Alp Guler, Iasonas Kokkinos. CVPR 2019.
@@ -111,7 +115,7 @@
 
 [Convolutional Mesh Regression for Single-Image Human Shape Reconstruction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.pdf). Nikos Kolotouros, Georgios Pavlakos, Kostas Daniilidis. CVPR 2019.
 
-[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf). Mohamed Omran, Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler, Bernt Schiele. 3DV, 2018.
+[Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf). Mohamed Omran, Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler, Bernt Schiele. 3DV 2018.
 
 [End-to-End Recovery of Human Shape and Pose](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kanazawa_End-to-End_Recovery_of_CVPR_2018_paper.pdf). Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik. CVPR 2018.
 
@@ -119,23 +123,23 @@
 
 [Detailed, Accurate, Human Shape Estimation From Clothed 3D Scan Sequences](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Detailed_Accurate_Human_CVPR_2017_paper.pdf). Chao Zhang, Sergi Pujades, Michael J. Black, Gerard Pons-Moll. CVPR 2017.
 
+[Human Shape From Silhouettes Using Generative HKS Descriptors and Cross-Modal Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dibra_Human_Shape_From_CVPR_2017_paper.pdf). Endri Dibra, Himanshu Jain, Cengiz Oztireli, Remo Ziegler, Markus Gross. CVPR 2017.
+
+[Unite the People: Closing the Loop Between 3D and 2D Human Representations](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lassner_Unite_the_People_CVPR_2017_paper.pdf). Christoph Lassner, Javier Romero, Martin Kiefel, Federica Bogo, Michael J. Black, Peter V. Gehler. CVPR 2017.
+
 [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). Federica Bogo*, Angjoo Kanazawa*, Christoph Lassner, Peter Gehler,Javier Romero, Michael J. Black. ECCV 2016.
 
 [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015_fixed.pdf). Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, Michael J. Black. 2015.
 
 [The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose](http://files.is.tue.mpg.de/black/papers/StitchCVPR2015.pdf). Silvia Zuffi, Michael J. Black. CVPR 2015.
 
-[Human Shape From Silhouettes Using Generative HKS Descriptors and Cross-Modal Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dibra_Human_Shape_From_CVPR_2017_paper.pdf). Endri Dibra, Himanshu Jain, Cengiz Oztireli, Remo Ziegler, Markus Gross. CVPR 2017.
-
-[Unite the People: Closing the Loop Between 3D and 2D Human Representations](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lassner_Unite_the_People_CVPR_2017_paper.pdf). Christoph Lassner, Javier Romero, Martin Kiefel, Federica Bogo, Michael J. Black, Peter V. Gehler. CVPR 2017.
-
 <a name="papers-body-texture"></a>
 ### Body Reconstruction (With Texture)
 [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf). Shunsuke Saito*, Zeng Huang*, Ryota Natsume*, Shigeo Morishima, Angjoo Kanazawa, Hao Li. ICCV 2019.
 
-[Learning to Reconstruct People in Clothing From a Single RGB Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Alldieck_Learning_to_Reconstruct_People_in_Clothing_From_a_Single_RGB_CVPR_2019_paper.pdf). Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll. CVPR 2019.
-
 [SiCloPe: Silhouette-Based Clothed People](http://openaccess.thecvf.com/content_CVPR_2019/papers/Natsume_SiCloPe_Silhouette-Based_Clothed_People_CVPR_2019_paper.pdf). Ryota Natsume, Shunsuke Saito, Zeng Huang, Weikai Chen, Chongyang Ma, Hao Li, Shigeo Morishima. CVPR 2019.
+
+[Learning to Reconstruct People in Clothing From a Single RGB Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Alldieck_Learning_to_Reconstruct_People_in_Clothing_From_a_Single_RGB_CVPR_2019_paper.pdf). Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll. CVPR 2019.
 
 <a name="papers-body-capture"></a>
 ### Human Capture
@@ -162,6 +166,9 @@
 [4D Human Body Correspondences From Panoramic Depth Maps](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_4D_Human_Body_CVPR_2018_paper.pdf). Zhong Li, Minye Wu, Wangyiteng Zhou, Jingyi Yu. CVPR 2018.
 
 [Dynamic FAUST: Registering Human Bodies in Motion](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf). Federica Bogo, Javier Romero, Gerard Pons-Moll, Michael J. Black. CVPR 2017.
+
+[FAUST: Dataset and evaluation for 3D mesh registration](http://files.is.tue.mpg.de/black/papers/FAUST2014.pdf). Federica Bogo,
+Javier Romero, Matthew Loper, Michael J. Black. CVPR 2016.
 
 <a name="papers-body-pose"></a>
 ### Human Pose Estimation
