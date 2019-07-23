@@ -101,19 +101,15 @@
 
 [Learning From Millions of 3D Scans for Large-Scale 3D Face Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gilani_Learning_From_Millions_CVPR_2018_paper.pdf). Syed Zulqarnain Gilani, Ajmal Mian. CVPR 2018.
 
-<a name="body"></a>
-##Body
+<a name="papers-body"></a>
+## Body
+<a name="papers-body-geometry-only"></a>
+### Body Reconstruction (Geometry Only)
 [HoloPose: Holistic 3D Human Reconstruction In-The-Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guler_HoloPose_Holistic_3D_Human_Reconstruction_In-The-Wild_CVPR_2019_paper.pdf). Riza Alp Guler, Iasonas Kokkinos. CVPR 2019.
 
 [Detailed Human Shape Estimation From a Single Image by Hierarchical Mesh Deformation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Detailed_Human_Shape_Estimation_From_a_Single_Image_by_Hierarchical_CVPR_2019_paper.pdf). Hao Zhu, Xinxin Zuo, Sen Wang, Xun Cao, Ruigang Yang. CVPR 2019.
 
 [Convolutional Mesh Regression for Single-Image Human Shape Reconstruction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.pdf). Nikos Kolotouros, Georgios Pavlakos, Kostas Daniilidis. CVPR 2019.
-
-[IGE-Net: Inverse Graphics Energy Networks for Human Pose Estimation and Single-View Reconstruction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jack_IGE-Net_Inverse_Graphics_Energy_Networks_for_Human_Pose_Estimation_and_CVPR_2019_paper.pdf). Dominic Jack, Frederic Maire, Sareh Shirazi, Anders Eriksson. CVPR 2019.
-
-[Learning to Reconstruct People in Clothing From a Single RGB Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Alldieck_Learning_to_Reconstruct_People_in_Clothing_From_a_Single_RGB_CVPR_2019_paper.pdf). Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll. CVPR 2019.
-
-[SiCloPe: Silhouette-Based Clothed People](http://openaccess.thecvf.com/content_CVPR_2019/papers/Natsume_SiCloPe_Silhouette-Based_Clothed_People_CVPR_2019_paper.pdf). Ryota Natsume, Shunsuke Saito, Zeng Huang, Weikai Chen, Chongyang Ma, Hao Li, Shigeo Morishima. CVPR 2019.
 
 [Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation](https://arxiv.org/pdf/1808.05942.pdf). Mohamed Omran, Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler, Bernt Schiele. 3DV, 2018.
 
@@ -123,54 +119,47 @@
 
 [Detailed, Accurate, Human Shape Estimation From Clothed 3D Scan Sequences](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Detailed_Accurate_Human_CVPR_2017_paper.pdf). Chao Zhang, Sergi Pujades, Michael J. Black, Gerard Pons-Moll. CVPR 2017.
 
-[Human Shape From Silhouettes Using Generative HKS Descriptors and Cross-Modal Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dibra_Human_Shape_From_CVPR_2017_paper.pdf). Endri Dibra, Himanshu Jain, Cengiz Oztireli, Remo Ziegler, Markus Gross. CVPR 2017.
-
-[Unite the People: Closing the Loop Between 3D and 2D Human Representations](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lassner_Unite_the_People_CVPR_2017_paper.pdf). Christoph Lassner, Javier Romero, Martin Kiefel, Federica Bogo, Michael J. Black, Peter V. Gehler. CVPR 2017.
-
 [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). Federica Bogo*, Angjoo Kanazawa*, Christoph Lassner, Peter Gehler,Javier Romero, Michael J. Black. ECCV 2016.
 
 [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015_fixed.pdf). Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, Michael J. Black. 2015.
 
 [The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose](http://files.is.tue.mpg.de/black/papers/StitchCVPR2015.pdf). Silvia Zuffi, Michael J. Black. CVPR 2015.
 
-Correspondence
-[4D Human Body Correspondences From Panoramic Depth Maps](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_4D_Human_Body_CVPR_2018_paper.pdf). Zhong Li, Minye Wu, Wangyiteng Zhou, Jingyi Yu. CVPR 2018.
+[Human Shape From Silhouettes Using Generative HKS Descriptors and Cross-Modal Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Dibra_Human_Shape_From_CVPR_2017_paper.pdf). Endri Dibra, Himanshu Jain, Cengiz Oztireli, Remo Ziegler, Markus Gross. CVPR 2017.
 
+[Unite the People: Closing the Loop Between 3D and 2D Human Representations](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lassner_Unite_the_People_CVPR_2017_paper.pdf). Christoph Lassner, Javier Romero, Martin Kiefel, Federica Bogo, Michael J. Black, Peter V. Gehler. CVPR 2017.
+
+<a name="papers-body-texture"></a>
+### Body Reconstruction (With Texture)
+
+[Learning to Reconstruct People in Clothing From a Single RGB Camera](http://openaccess.thecvf.com/content_CVPR_2019/papers/Alldieck_Learning_to_Reconstruct_People_in_Clothing_From_a_Single_RGB_CVPR_2019_paper.pdf). Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll. CVPR 2019.
+
+[SiCloPe: Silhouette-Based Clothed People](http://openaccess.thecvf.com/content_CVPR_2019/papers/Natsume_SiCloPe_Silhouette-Based_Clothed_People_CVPR_2019_paper.pdf). Ryota Natsume, Shunsuke Saito, Zeng Huang, Weikai Chen, Chongyang Ma, Hao Li, Shigeo Morishima. CVPR 2019.
+
+<a name="papers-body-capture"></a>
+### Human Capture
+[Expressive Body Capture: 3D Hands, Face, and Body From a Single Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf). Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black. CVPR 2019.
+
+[Volumetric Capture of Humans With a Single RGBD Camera via Semi-Parametric Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pandey_Volumetric_Capture_of_Humans_With_a_Single_RGBD_Camera_via_CVPR_2019_paper.pdf). Rohit Pandey, Anastasia Tkach, Shuoran Yang, Pavel Pidlypenskyi, Jonathan Taylor, Ricardo Martin-Brualla, Andrea Tagliasacchi, George Papandreou, Philip Davidson, Cem Keskin, Shahram Izadi, Sean Fanello. CVPR 2019.
+
+[SimulCap : Single-View Human Performance Capture With Cloth Simulation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_SimulCap__Single-View_Human_Performance_Capture_With_Cloth_Simulation_CVPR_2019_paper.pdf). Tao Yu, Zerong Zheng, Yuan Zhong, Jianhui Zhao, Qionghai Dai, Gerard Pons-Moll, Yebin Liu. CVPR 2019.
+
+[Monocular Total Capture: Posing Face, Body, and Hands in the Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiang_Monocular_Total_Capture_Posing_Face_Body_and_Hands_in_the_CVPR_2019_paper.pdf). Donglai Xiang, Hanbyul Joo, Yaser Sheikh. CVPR 2019.
+ 
+[DoubleFusion: Real-Time Capture of Human Performances With Inner Body Shapes From a Single Depth Sensor](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_DoubleFusion_Real-Time_Capture_CVPR_2018_paper.pdf). Tao Yu, Zerong Zheng, Kaiwen Guo, Jianhui Zhao, Qionghai Dai, Hao Li, Gerard Pons-Moll, Yebin Liu. CVPR 2018.
+
+[Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf). Hanbyul Joo, Tomas Simon, Yaser Sheikh. CVPR 2018.
+
+[BodyFusion: Real-Time Capture of Human Motion and Surface Geometry Using a Single Depth Camera](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_BodyFusion_Real-Time_Capture_ICCV_2017_paper.pdf). Tao Yu, Kaiwen Guo, Feng Xu, Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu. ICCV 2017.
+
+<a name="papers-body-correspondence"></a>
+### Body Correspondence
+[4D Human Body Correspondences From Panoramic Depth Maps](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_4D_Human_Body_CVPR_2018_paper.pdf). Zhong Li, Minye Wu, Wangyiteng Zhou, Jingyi Yu. CVPR 2018.
 
 [Dynamic FAUST: Registering Human Bodies in Motion](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bogo_Dynamic_FAUST_Registering_CVPR_2017_paper.pdf). Federica Bogo, Javier Romero, Gerard Pons-Moll, Michael J. Black. CVPR 2017.
 
-
-<a name="hand"></a>
-## Hand
-[Learning Joint Reconstruction of Hands and Manipulated Objects](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf). Yana Hasson, Gul Varol, Dimitrios Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid. CVPR 2019.
-
-Hand Shape Estimation
-[3D Hand Shape and Pose Estimation From a Single RGB Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf). Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan. CVPR 2019.
-
-[3D Hand Shape and Pose From Images in the Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.pdf). Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr. CVPR 2019.
-
-3D Hand Pose Estimation
-[Pushing the Envelope for RGB-Based Dense 3D Hand Pose Estimation via Neural Rendering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Baek_Pushing_the_Envelope_for_RGB-Based_Dense_3D_Hand_Pose_Estimation_CVPR_2019_paper.pdf). Seungryul Baek, Kwang In Kim, Tae-Kyun Kim. CVPR 2019.
-
-[Self-Supervised 3D Hand Pose Estimation Through Training by Fitting](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_Self-Supervised_3D_Hand_Pose_Estimation_Through_Training_by_Fitting_CVPR_2019_paper.pdf). Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao. CVPR 2019.
-
-[V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation From a Single Depth Map](http://openaccess.thecvf.com/content_cvpr_2018/papers/Moon_V2V-PoseNet_Voxel-to-Voxel_Prediction_CVPR_2018_paper.pdf). Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee. CVPR 2018.
-
-[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.pdf). Shanxin Yuan, Guillermo Garcia-Hernando, Björn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim. CVPR 2018.
-
-[Dense 3D Regression for Hand Pose Estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Dense_3D_Regression_CVPR_2018_paper.pdf). Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao. CVPR 2018.
-
-[Hand PointNet: 3D Hand Pose Estimation Using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf). Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan. CVPR 2018.
-
-[Point-to-Point Regression PointNet for 3D Hand Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf). Liuhao Ge, Zhou Ren, Junsong Yuan. ECCV 2018.
-
-[Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.pdf). Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan. ECCV 2018.
-
-[3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation From Single Depth Images](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_3D_Convolutional_Neural_CVPR_2017_paper.pdf). Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann. CVPR 2017.
-
-<a name="pose"></a>
-## Pose
-3D Human Pose Estimation
+<a name="papers-body-pose"></a>
+### Human Pose Estimation
 [3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavllo_3D_Human_Pose_Estimation_in_Video_With_Temporal_Convolutions_and_CVPR_2019_paper.pdf). Dario Pavllo, Christoph Feichtenhofer, David Grangier, Michael Auli. CVPR 2019.
 
 [RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wandt_RepNet_Weakly_Supervised_Training_of_an_Adversarial_Reprojection_Network_for_CVPR_2019_paper.pdf). Bastian Wandt, Bodo Rosenhahn. CVPR 2019.
@@ -197,29 +186,39 @@ Hand Shape Estimation
 
 [3D Human Pose Estimation = 2D Pose Estimation + Matching](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_3D_Human_Pose_CVPR_2017_paper.pdf). Ching-Hang Chen, Deva Ramanan. CVPR 2017.
 
+<a name="papers-hand"></a>
+## Hand
 
+<a name="papers-hand-shape"></a>
+### Hand Shape Estimation
+[Learning Joint Reconstruction of Hands and Manipulated Objects](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf). Yana Hasson, Gul Varol, Dimitrios Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, Cordelia Schmid. CVPR 2019.
 
+[3D Hand Shape and Pose Estimation From a Single RGB Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf). Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan. CVPR 2019.
 
+[3D Hand Shape and Pose From Images in the Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.pdf). Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr. CVPR 2019.
 
+<a name="papers-hand-pose"></a>
+### 3D Hand Pose Estimation
+[Pushing the Envelope for RGB-Based Dense 3D Hand Pose Estimation via Neural Rendering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Baek_Pushing_the_Envelope_for_RGB-Based_Dense_3D_Hand_Pose_Estimation_CVPR_2019_paper.pdf). Seungryul Baek, Kwang In Kim, Tae-Kyun Kim. CVPR 2019.
 
+[Self-Supervised 3D Hand Pose Estimation Through Training by Fitting](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wan_Self-Supervised_3D_Hand_Pose_Estimation_Through_Training_by_Fitting_CVPR_2019_paper.pdf). Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao. CVPR 2019.
 
-Human Capture
-[Expressive Body Capture: 3D Hands, Face, and Body From a Single Image](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf). Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black. CVPR 2019.
+[V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation From a Single Depth Map](http://openaccess.thecvf.com/content_cvpr_2018/papers/Moon_V2V-PoseNet_Voxel-to-Voxel_Prediction_CVPR_2018_paper.pdf). Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee. CVPR 2018.
 
-[Volumetric Capture of Humans With a Single RGBD Camera via Semi-Parametric Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pandey_Volumetric_Capture_of_Humans_With_a_Single_RGBD_Camera_via_CVPR_2019_paper.pdf). Rohit Pandey, Anastasia Tkach, Shuoran Yang, Pavel Pidlypenskyi, Jonathan Taylor, Ricardo Martin-Brualla, Andrea Tagliasacchi, George Papandreou, Philip Davidson, Cem Keskin, Shahram Izadi, Sean Fanello. CVPR 2019.
+[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.pdf). Shanxin Yuan, Guillermo Garcia-Hernando, Björn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim. CVPR 2018.
 
-[SimulCap : Single-View Human Performance Capture With Cloth Simulation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_SimulCap__Single-View_Human_Performance_Capture_With_Cloth_Simulation_CVPR_2019_paper.pdf). Tao Yu, Zerong Zheng, Yuan Zhong, Jianhui Zhao, Qionghai Dai, Gerard Pons-Moll, Yebin Liu. CVPR 2019.
+[Dense 3D Regression for Hand Pose Estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Dense_3D_Regression_CVPR_2018_paper.pdf). Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao. CVPR 2018.
 
-[Monocular Total Capture: Posing Face, Body, and Hands in the Wild](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xiang_Monocular_Total_Capture_Posing_Face_Body_and_Hands_in_the_CVPR_2019_paper.pdf). Donglai Xiang, Hanbyul Joo, Yaser Sheikh. CVPR 2019.
- 
-[DoubleFusion: Real-Time Capture of Human Performances With Inner Body Shapes From a Single Depth Sensor](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_DoubleFusion_Real-Time_Capture_CVPR_2018_paper.pdf). Tao Yu, Zerong Zheng, Kaiwen Guo, Jianhui Zhao, Qionghai Dai, Hao Li, Gerard Pons-Moll, Yebin Liu. CVPR 2018.
+[Hand PointNet: 3D Hand Pose Estimation Using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf). Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan. CVPR 2018.
 
-[Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf). Hanbyul Joo, Tomas Simon, Yaser Sheikh. CVPR 2018.
+[Point-to-Point Regression PointNet for 3D Hand Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf). Liuhao Ge, Zhou Ren, Junsong Yuan. ECCV 2018.
 
-[BodyFusion: Real-Time Capture of Human Motion and Surface Geometry Using a Single Depth Camera](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_BodyFusion_Real-Time_Capture_ICCV_2017_paper.pdf). Tao Yu, Kaiwen Guo, Feng Xu, Yuan Dong, Zhaoqi Su, Jianhui Zhao, Jianguo Li, Qionghai Dai, Yebin Liu. ICCV 2017.
+[Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.pdf). Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan. ECCV 2018.
+
+[3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation From Single Depth Images](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_3D_Convolutional_Neural_CVPR_2017_paper.pdf). Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann. CVPR 2017.
 
 <a name="motion"></a>
-##Motion Prediction/Synthesis
+## Motion Prediction/Synthesis
 [Towards Natural and Accurate Future Motion Prediction of Humans and Animals](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Towards_Natural_and_Accurate_Future_Motion_Prediction_of_Humans_and_CVPR_2019_paper.pdf). Zhenguang Liu, Shuang Wu, Shuyuan Jin, Qi Liu, Shijian Lu, Roger Zimmermann, Li Cheng. CVPR 2019.
 
 [A Neural Temporal Model for Human Motion Prediction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf). Anand Gopalakrishnan, Ankur Mali, Dan Kifer, Lee Giles, Alexander G. Ororbia. CVPR 2019.
@@ -233,7 +232,6 @@ Human Capture
 [Auto-conditioned LSTM Network For Extended Complex Human Motion Synthesis](https://arxiv.org/pdf/1707.05363.pdf). Yi Zhou*, Zimo Li*, Shuangjio Xiao, Chong He, Zeng Huang, Hao Li. ICLR 2018.
 
 [Forecasting Human Dynamics From Static Images](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chao_Forecasting_Human_Dynamics_CVPR_2017_paper.pdf). Yu-Wei Chao, Jimei Yang, Brian Price, Scott Cohen, Jia Deng. CVPR 2017.
-
 
 [On Human Motion Prediction Using Recurrent Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Martinez_On_Human_Motion_CVPR_2017_paper.pdf). Julieta Martinez, Michael J. Black, Javier Romero. CVPR 2017.
 
