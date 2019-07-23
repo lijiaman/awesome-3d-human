@@ -39,6 +39,8 @@
 
 [MVF-Net: Multi-View 3D Face Morphable Model Regression](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.pdf). Fanzi Wu, Linchao Bao, Yajing Chen, Yonggen Ling, Yibing Song, Songnan Li, King Ngi Ngan, Wei Liu. CVPR 2019.
 
+[Mesoscopic Facial Geometry Inference Using Deep Neural Networks](http://www.hao-li.com/publications/papers/cvpr2018MFGIDNN.pdf). Loc Huynh, Weikai Chen, Shunsuke Saito, Jun Xing, Koki Nagano, Andrew Jones, Paul Debevec, Hao Li. CVPR 2018.
+
 [Extreme 3D Face Reconstruction: Seeing Through Occlusions](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tran_Extreme_3D_Face_CVPR_2018_paper.pdf). Anh Tuấn Trần, Tal Hassner, Iacopo Masi, Eran Paz, Yuval Nirkin, Gérard Medioni. CVPR 2018.
 
 [Sparse Photometric 3D Face Reconstruction Guided by Morphable Models](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Sparse_Photometric_3D_CVPR_2018_paper.pdf). Xuan Cao, Zhang Chen, Anpei Chen, Xin Chen, Shiying Li, Jingyi Yu. CVPR 2018.
@@ -70,6 +72,10 @@
 [Towards High-Fidelity Nonlinear 3D Face Morphable Model](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tran_Towards_High-Fidelity_Nonlinear_3D_Face_Morphable_Model_CVPR_2019_paper.pdf). Luan Tran, Feng Liu, Xiaoming Liu. CVPR 2019.
 
 [GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf). Baris Gecer, Stylianos Ploumpis, Irene Kotsia, Stefanos Zafeiriou. CVPR 2019.
+
+[PAGAN: REAL-TIME AVATARS USING DYNAMIC TEXTURES](http://www.hao-li.com/publications/papers/siggraphAsia2018PAGAN.pdf). Koki Nagano, Jaewoo Seo, Jun Xing, Lingyu Wei, Zimo Li, Shunsuke Saito, Aviral Agarwal, Jens Fursund, Hao Li. SIGGRAPH Asia 2018.
+
+[HIGH-FIDELITY FACIAL REFLECTANCE AND GEOMETRY INFERENCE FROM AN UNCONSTRAINED IMAGE](http://www.hao-li.com/publications/papers/siggraph2018HFFRGIFUI.pdf). Shugo Yamaguchi, Shunsuke Saito, Koki Nagano, Yajie Zhao, Weikai Chen, Kyle Olszewski, Shigeo Morishima, Hao Li. SIGGRAPH 2018. 
 
 [Self-Supervised Multi-Level Face Model Learning for Monocular Reconstruction at Over 250 Hz](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tewari_Self-Supervised_Multi-Level_Face_CVPR_2018_paper.pdf). Ayush Tewari, Michael Zollhöfer, Pablo Garrido, Florian Bernard, Hyeongwoo Kim, Patrick Pérez, Christian Theobalt. CVPR 2018.
 
