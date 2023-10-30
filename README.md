@@ -19,6 +19,7 @@
 	- [Hand Modeling](#papers-hand)
 		- [Hand Shape Estimation](#papers-hand-mesh)
 		- [3D Hand Pose Estimation](#papers-hand-pose)
+  	- [Foot Modeling](#papers-foot) 
 	- [Motion Modeling](#papers-motion)
 		- [Motion Prediction/Synthesis](#papers-motion-pred)
 
@@ -228,6 +229,15 @@ Javier Romero, Matthew Loper, Michael J. Black. CVPR 2016.
 [Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.pdf). Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan. ECCV 2018.
 
 [3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation From Single Depth Images](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_3D_Convolutional_Neural_CVPR_2017_paper.pdf). Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann. CVPR 2017.
+
+<a name="papers-foot"></a>
+## Foot
+
+[FOUND: Foot Optimisation with Uncertain Normals for Surface Deformation using Synthetic Data](https://ollieboyne.github.io/FOUND/). Oliver Boyne, Gwangbin Bae, James Charles, Roberto Cipolla. WACV 2024.
+
+[SUPR: A Sparse Unified Part-Based Human Representation](https://supr.is.tue.mpg.de). Ahmed A. A. Osman, Timo Bolkart, Dimitrios Tzionas, Michael J. Black. ECCV 2022.
+
+[FIND: An Unsupervised Implicit 3D Model of Articulated Human Feet](https://ollieboyne.github.io/FIND/). Oliver Boyne, James Charles, Roberto Cipolla. BMVC 2022.
 
 <a name="papers-motion"></a>
 ## Motion Modeling
